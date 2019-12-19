@@ -1,0 +1,48 @@
+{
+    "name": "Guild Wars 2",
+    "description": "Welcome to the official Guild Wars 2 fan page on Facebook! Please check the FAQ for info about the game: https:\/\/www.guildwars2.com\/en\/services\/faq\/",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28263-wiki-guildwars2-com.jpg",
+    "tags": [
+        "api provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/guild-wars-2\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Guild Wars 2",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28263-wiki-guildwars2-com.jpg",
+            "humanURL": "https:\/\/wiki.guildwars2.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/guild-wars-2-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/guild-wars-2-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/product\/guild-wars"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/GuildWars2"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/wiki.guildwars2.com"
+        }
+    ]
+}
