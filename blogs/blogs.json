@@ -1,0 +1,21 @@
+{
+  "repo": "guild-wars-2",
+  "feeds": [
+    {
+      "source": "https://www.guildwars2.com/en/feed/",
+      "feed_url": "https://www.guildwars2.com/en/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://github.com/public-apis/public-apis",
+      "feed_url": "https://github.com/public-apis/public-apis",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 10
+}
