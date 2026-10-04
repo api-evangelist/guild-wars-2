@@ -33,13 +33,13 @@ x-category: "Games & Comics"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Games And Comics
   - Public APIs
+  - Gaming
+  - Video Games
 apis:
   - name: Guild Wars 2
     description: "Guild Wars 2 Game Information"
     humanURL: https://wiki.guildwars2.com/wiki/API:Main
-    baseURL: https://wiki.guildwars2.com/wiki/API:Main
     tags:
       - Games And Comics
     properties:
@@ -59,3 +59,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- Games And Comics
